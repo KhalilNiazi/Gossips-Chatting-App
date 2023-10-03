@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031122245465",
+    "project_id": "chatsapp-a137d",
+    "storage_bucket": "chatsapp-a137d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031122245465:android:70de64cedc736eb6d51e48",
+        "android_client_info": {
+          "package_name": "com.niazi.chatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHsOLwugqx43V9vF3GQqaD7qp0uLl8CSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

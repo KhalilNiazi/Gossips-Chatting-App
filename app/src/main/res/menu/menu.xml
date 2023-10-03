@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/chats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:iconTint="@color/appColor"
+        android:icon="@drawable/conversation"
+        android:title="Chats" />
+    <item
+        android:id="@+id/Uploadstatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/status"
+        android:title="Upload Status" />
+    <item
+        android:id="@+id/call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/viber"
+        android:title="Calls" />
+</menu>
